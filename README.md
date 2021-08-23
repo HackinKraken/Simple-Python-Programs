@@ -1,2 +1,2 @@
 # Simple-Python-Program
-Simple Python program that prints and asks for input
+Simple Python programs that I am creating as I re-familairize myself with Python
